@@ -1,0 +1,1 @@
+echo "Ndunge" > students_directory/cohort-3.txt
